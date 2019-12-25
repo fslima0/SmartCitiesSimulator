@@ -5,4 +5,4 @@ Imagine uma determinada indústria que precisa movimentar peças de três cores 
 
 Este módulo do aplicativo insere objetos e mostra um simulador de um espaço de uma fábrica (arena) na tela do usuário.
 
-<img src="arena1.png" title="hover text">
+<img src="arena.png" title="hover text">
